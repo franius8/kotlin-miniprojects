@@ -1,5 +1,3 @@
-package tictactoe
-
 fun main() {
     var boardString = "         "
     println("---------")
